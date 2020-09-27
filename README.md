@@ -9,7 +9,7 @@ The new feature extraction layer called BigruCNN has the stucture shown below, w
 
 <figure>
 <img src="images/BigruCNN.png" width=500>
-  <figcaption>Fig.1 - Bidirectional Recurrent COnvolution Module (BigruCNN) </figcaption>
+  <figcaption>Fig.1 - Bidirectional Recurrent Convolution Module (BigruCNN) </figcaption>
 </figure>
 
 <br>
@@ -20,7 +20,7 @@ The enhancement model build as BigruNCN as the layers, called BigruCNN-SE, has t
 <br>
 <figure>
 <img src="images/BigruCNN-SE.png" width=300>
-  <figcaption>Fig.1 - Bidirectional Recurrent COnvolution Module (BigruCNN) </figcaption>
+  <figcaption>Fig.2 - Speech enhancement with BigruCNN module  </figcaption>
 </figure>
 
 <br>
