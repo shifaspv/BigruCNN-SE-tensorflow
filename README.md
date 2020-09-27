@@ -1,1 +1,1 @@
-# BigruCNN: Bidirectional Recurrent Convolution and its application to speech enhancement
+# BigruCNN: Bidirectional Recurrent Convolution 
