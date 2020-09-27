@@ -24,6 +24,7 @@ The enhancement model build as BigruNCN as the layers, called BigruCNN-SE, has t
 </figure>
 
 <br>
+<br>
 
 As can be seen in the figure, the ```gruCNN-SE``` is a feature domain enhancement model that takes noisy spectra as the input and extracts features recurrenctly over time. To better understand the exact layer wise details please refer to our paper <a href="https://arxiv.org/pdf/2006.05233.pdf">at here</a> .
 
