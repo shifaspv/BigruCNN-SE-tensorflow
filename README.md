@@ -5,7 +5,7 @@ Since the model can capture the local recurrency pattern of the speech and noise
 Few samples from the trained model are displayed <a href="https://www.csd.uoc.gr/~shifaspv/IEEE_Letter-demo">here</a>, along with the other models.
 
 ## The bidirectional recurrent convolution. module (BigruCNN)
-The new feature extraction layer called BigruCNN has the stucture shown below, where the features are extracted recurrently over time at each frame instant. In this structure, the feature map of current frame are dependent on the neighbouring frames feature activities.
+The new feature extraction layer called BigruCNN has the stucture shown below, where the features are extracted recurrently over time at each frame instant. In this structure, the features extracted are dependent on the neighbouring frames feature activities.
 
 <img src="images/BigruCNN.png" width=500>
 
