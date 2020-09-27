@@ -5,7 +5,7 @@ This is advantageous as the model can capture the locall recurrency pattern of t
 Few samples from the trained model are displayed <a href="https://www.csd.uoc.gr/~shifaspv/IEEE_Letter-demo">here</a>, along with the other models.
 
 ## Brief description of the model architecture
-<img src="images/BigruCNN.pdf">
+<img src="images/BigruCNN.png">
 
 <br>
 As can be seen in the figure, the ```gruCNN-SE``` is a feature domain enhancement model that takes noisy spectra as the input and extracts features recurrenctly over time. To better understand the exact layer wise details please refer to our paper <a href="https://arxiv.org/pdf/2006.05233.pdf">at here</a> .
