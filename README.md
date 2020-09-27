@@ -15,7 +15,7 @@ The new feature extraction layer called BigruCNN has the stucture shown below, w
 <br>
 <br>
 The enhancement model build as BigruNCN as the layers, called BigruCNN-SE, has the final stucture shown in figure below.
-
+<br>
 <figure>
 <img src="images/BigruCNN-SE.png" width=300>
   <figcaption>Fig.1 - Bidirectional Recurrent COnvolution Module (BigruCNN) </figcaption>
