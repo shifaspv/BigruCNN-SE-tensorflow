@@ -67,7 +67,7 @@ Then, generate the lists of wave files ID for training and tessting using the ``
   </tr>
     <tr>
     <th>filter_size_gruCNN</th>
-    <td>size of gruCNN kernals </td>
+    <td>size of gruCNN kernals (same for forward and backward sub modules) </td>
   </tr>
     <tr>
     <th>num_channel_gruCNN</th>
