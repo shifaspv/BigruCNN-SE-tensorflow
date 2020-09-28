@@ -55,7 +55,7 @@ Then, generate the lists of wave files ID for training and tessting using the ``
   </tr>
   <tr>
     <th>num_gruCNN_layers</th>
-    <td>numbering of gruCNN layers employed</td>
+    <td>numbering of BigruCNN layers employed</td>
   </tr>
 <tr>
     <th>fft_bin_size</th>
