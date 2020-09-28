@@ -76,7 +76,7 @@ Then, generate the lists of wave files ID for training and tessting using the ``
   </tr>
     <tr>
     <th>num_channel_gruCNN</th>
-    <td>channels at each layer of gruCNN </td>
+    <td>number of kernels (channels) at each layer for forward and backward blocks </td>
   </tr>
 <tr>
     <th>Regain</th>
